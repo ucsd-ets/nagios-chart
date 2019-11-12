@@ -53,7 +53,7 @@ affinity: {}
 hostNetwork: false
 
 mail:
-#  relay_host:
+  relay_host: ""
 
 extraVolumeMounts: []
 #- name: nagios
